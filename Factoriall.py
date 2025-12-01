@@ -1,4 +1,4 @@
-Q.Factorial using Recursion
+#Q.Factorial using Recursion
 Ans:
 def factorial(n):
     if n == 0 or n == 1:

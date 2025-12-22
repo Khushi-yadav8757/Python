@@ -7,7 +7,7 @@ Built-in Functions – Already provided by Python.
 Examples: print(), len(), input(), range()
 
 User-defined Functions – Functions that you create.
-
+-------------------------------------------------------------------------------
 #Syntax of a User-Defined Function
 def function_name():
 
@@ -17,7 +17,7 @@ def say_hello():
     print("Hello, Khushi!")
     say_hello()
   #Output: Hello, Khushi!
-
+----------------------------------------------------------------------------
  Example 2: Function with Parameter
 def greet(name):
     print("Good morning,", name)

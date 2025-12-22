@@ -36,7 +36,7 @@ def welcome(name="Guest"):
     print("Welcome,", name)
 welcome()         # Output: Welcome, Guest
 welcome("Khushi") # Output: Welcome, Khushi
-
+---------------------------------------------------------------------------
 Example 5: Function with Multiple Parameters
 def student_details(name, age, branch):
     print("Name:", name)

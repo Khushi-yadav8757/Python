@@ -1,14 +1,14 @@
--What is a Function?
+#What is a Function?
 A function is a block of code that performs a specific task.
 It helps you reuse code, so you don’t need to write the same logic again and again.
 
--types of Functions in Python
+#types of Functions in Python
 Built-in Functions – Already provided by Python.
 Examples: print(), len(), input(), range()
 
 User-defined Functions – Functions that you create.
 
- Syntax of a User-Defined Function
+#Syntax of a User-Defined Function
 def function_name():
 
    # statements
@@ -30,7 +30,7 @@ def add(a, b):
 result = add(5, 3)
 print("Sum is:", result)
 # Output: Sum is: 8
-
+----------------------------------------------------------------------------
  Example 4: Function with Default Parameter
 def welcome(name="Guest"):
     print("Welcome,", name)

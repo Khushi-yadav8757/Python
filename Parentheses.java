@@ -1,5 +1,4 @@
 #Check Balanced Parentheses
-
 def is_balanced(expr):
     stack = []
     mapping = {')': '(', ']': '[', '}': '{'}

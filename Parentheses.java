@@ -9,5 +9,4 @@ def is_balanced(expr):
             if not stack or mapping[char] != stack.pop():
                 return False
     return not stack
-
 print(is_balanced("({[]})"))  # True

@@ -4,6 +4,7 @@ youDict = {"s": 1, "w": -1, "g": 0}
 reverseDict = {1: "Snake", -1: "Water", 0: "Gun"}
 Youstr = input("Enter Your Choice (s for snake, w for water, g for gun): ")
 you = youDict[Youstr]
+
 print(f"you choose {reverseDict[you]}\ncomputer choose {reverseDict[Computer]}")
 if Computer == you:
     print("match draw")

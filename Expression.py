@@ -1,5 +1,5 @@
 # What is list comprehension vs generator expression?
-Ans:-
+#Ans:-
 
 List comprehension → creates list in memory.
 Generator expression → creates iterator (lazy).

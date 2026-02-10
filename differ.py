@@ -1,7 +1,6 @@
 #Difference between __str__ and __repr__?
 Ans:-
 __str__: User-friendly (used by print).
-
 __repr__: Developer-friendly (used in shell).
 
 class Person:

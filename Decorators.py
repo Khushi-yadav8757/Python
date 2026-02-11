@@ -7,7 +7,6 @@ def decorator(func):
         func()
         print("After function")
     return wrapper
-
 @decorator
 def say_hello():
     print("Hello!")

@@ -1,7 +1,6 @@
 Q6.Use abc module to create abstract class Shape with method area().
 Ans:-
 from abc import ABC, abstractmethod
-
 class Shape(ABC):
     @abstractmethod
     def area(self):

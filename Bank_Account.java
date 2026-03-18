@@ -8,10 +8,10 @@ class BankAccount:
         if amount > self.balance:
             print("Insufficient funds")
         else:
-            self.balance -= amount
+            self.balance -= amount 
     def get_balance(self):
         return self.balance
-# Test
+# Tes
 acc = BankAccount("Khushi", 1000)
 acc.deposit(500)
 acc.withdraw(300)

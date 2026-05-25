@@ -1,4 +1,5 @@
 Q3.Create a class BankAccount with private balance and methods deposit() and get_balance().
+
 Ans:-
 class BankAccount:
     def __init__(self):

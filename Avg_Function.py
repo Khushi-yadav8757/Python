@@ -5,6 +5,7 @@ c=75
 avg=(a+b+c)/3
 print(avg)
 -------------------------------------------------
+
 def avg():
     a=int(input("enter your number: "))
     b=int(input("enter your number: "))

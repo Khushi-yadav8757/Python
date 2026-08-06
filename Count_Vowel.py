@@ -1,4 +1,5 @@
 #Count Vowels in String
+
 s = input()
 v = "aeiouAEIOU"
 count = 0

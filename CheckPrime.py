@@ -8,3 +8,4 @@ else:
            break 
     else:
         print("Prime number")
+

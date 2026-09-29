@@ -5,5 +5,4 @@ def fibonacci(n):
     for _ in range(n):
         print(a, end=" ")
         a, b = b, a + b
-
 fibonacci(7)

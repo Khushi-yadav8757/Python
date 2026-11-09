@@ -12,7 +12,7 @@ class BankAccount:
     def get_balance(self):
         return self.balance
 # Tes
-    
+
 acc = BankAccount("Khushi", 1000)
 acc.deposit(500)
 acc.withdraw(300)
